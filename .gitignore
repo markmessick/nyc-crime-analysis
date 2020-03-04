@@ -3,8 +3,17 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# .DS_Store
+.DS_Store
+
 # C extensions
 *.so
+
+# config files
+ba_config.py
+ad_config.py
+mm_config.py
+zw_config.py
 
 # Distribution / packaging
 .Python
@@ -76,6 +85,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+*/.ipynb_checkpoints/*
 
 # IPython
 profile_default/
