@@ -3,16 +3,16 @@
 Is NYC getting more dangerous by year? By season?
 We plotted the number of arrests for assault from Sept 2014 through 2017 and found that assault arrests have remained relatively stable. Based on our ANOVA test, the differences between each year are not statistically significant. We also plotted the number of crimes by season for Sept 2014 through 2017. Although there does appear to be a trend for more arrests in the summer and spring months based on the graphs we plotted, our ANOVA test showed the differences between these seasons at least in 2017 was not statistically significant.
 
-https://github.com/markmessick/project-1/blob/master/Images/Comparison%20of%20Assault%20Arrests%202014%20-%202017%20(NYC).png
+![Image](https://github.com/markmessick/project-1/blob/master/Images/Comparison%20of%20Assault%20Arrests%202014%20-%202017%20(NYC).png)
 
-https://github.com/markmessick/project-1/blob/master/Images/Comparison%20of%20Assault%20Arrests%20by%20Season%20from%202014%20-%202017%20(NYC).png
+![Image](https://github.com/markmessick/project-1/blob/master/Images/Comparison%20of%20Assault%20Arrests%20by%20Season%20from%202014%20-%202017%20(NYC).png)
 
 # Is LA getting more dangerous by year? By season?
 We plotted the number of arrests for assault from 2014 through 2017 and found that assault arrests appear to be steadily increasing based on the graph of the data we plotted. This is consistent without ANOVA test which showed the differences between the years as statistically significant. However, we also plotted the number of crimes by season for 2014 through 2017, although there does appear to also be a somewhat inconsistent trend for more arrests in the summer and spring months based on the graphs we plotted. Our ANOVA test showed the differences between these seasons at least in 2017 was not statistically significant.
 
-https://github.com/markmessick/project-1/blob/master/Images/Comparison%20of%20Assault%20Arrests%20in%20LA%202014%20-%202017.png
+![Image](https://github.com/markmessick/project-1/blob/master/Images/Comparison%20of%20Assault%20Arrests%20in%20LA%202014%20-%202017.png)
  
-https://github.com/markmessick/project-1/blob/master/Images/Comparison%20of%20Assault%20Arrests%20by%20Season%20from%202014%20-%202017%20(LA).png
+![Image](https://github.com/markmessick/project-1/blob/master/Images/Comparison%20of%20Assault%20Arrests%20by%20Season%20from%202014%20-%202017%20(LA).png)
 
 # Is NYC more dangerous than LA?
 Our independent t-test did not show a statistically significant difference between the number of assault arrests in NYC across 2015 to 2017 and the number of assault arrests in LA across 2015 to 2017.
